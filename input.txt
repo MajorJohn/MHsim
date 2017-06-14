@@ -1,0 +1,5 @@
+Command> read 3
+Command> read 4
+Command> Read 8
+Command> Read 12
+Command> Show
